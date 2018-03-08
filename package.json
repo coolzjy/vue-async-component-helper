@@ -1,0 +1,25 @@
+{
+  "name": "vue-async-component-helper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolzjy/vue-async-component-helper.git"
+  },
+  "keywords": [
+    "vue",
+    "async",
+    "component",
+    "helper"
+  ],
+  "author": "Zhang Visper <i@zjy.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coolzjy/vue-async-component-helper/issues"
+  },
+  "homepage": "https://github.com/coolzjy/vue-async-component-helper#readme"
+}
